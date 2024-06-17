@@ -14,7 +14,7 @@
 
 - **样式：**
   - 添加 `macos` `搜狗` 和 `微信` 主题
-  - 调整字体为：`思源黑体 CN, HarmonyOS Sans SC, Microsoft YaHei`
+  - 调整字体为：`思源黑体 CN`
   - 候选词数量调整为 `6`
 - **功能：**
   - 启用小鹤双拼 melt_eng: `melt_eng.schema.yaml/speller/algebra/__include: algebra_flypy`
